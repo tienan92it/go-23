@@ -1,2 +1,2 @@
-# go-23
-Dwarves Golang Homework
+# Dwarves Go-23 homework
+Dwarves Golang Homework 2023
